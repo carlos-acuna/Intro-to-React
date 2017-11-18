@@ -1,2 +1,2 @@
-import App from "./App";
-export default App;
+import StatusBar from './StatusBar';
+export default StatusBar;

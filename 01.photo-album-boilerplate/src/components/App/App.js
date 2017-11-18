@@ -6,7 +6,7 @@ import 'semantic-ui-css/semantic.min.css';
 
 const App = () => {
   return (
-    <div className='.app'>
+    <div >
       <Nav />
       <Main />
     </div>
